@@ -1,0 +1,14 @@
+name: user_auth_app
+description: 5-kt 
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
